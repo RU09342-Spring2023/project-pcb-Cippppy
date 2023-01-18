@@ -9,3 +9,5 @@ Open Diptrace, then the PCB Editor. You then need to open the PCB file from the 
 3. Update PCB from Schematic
 Go to File --> Renew Layout From Schematic --> By Components. Pick the Schematic File in the repoitory.
 4. Save both files.
+
+Christian Cipolletta 1/18/2023
